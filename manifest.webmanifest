@@ -1,0 +1,15 @@
+{
+  "name": "Bookworm - HUGO Blog Theme",
+  "short_name": "Bookworm - HUGO Blog Theme",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "/bookworm?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#01AD9F",
+
+  
+  
+  
+  
+}
