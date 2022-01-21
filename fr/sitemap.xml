@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.gethugothemes.com/bookworm/fr/</loc>
+    <loc>https://jjuicecode.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.gethugothemes.com/bookworm/"
+                href="https://jjuicecode.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://demo.gethugothemes.com/bookworm/fr/"
+                href="https://jjuicecode.github.io/fr/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/bookworm/fr/categories/</loc>
+    <loc>https://jjuicecode.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.gethugothemes.com/bookworm/categories/"
+                href="https://jjuicecode.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://demo.gethugothemes.com/bookworm/fr/categories/"
+                href="https://jjuicecode.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/bookworm/fr/tags/</loc>
+    <loc>https://jjuicecode.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.gethugothemes.com/bookworm/tags/"
+                href="https://jjuicecode.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://demo.gethugothemes.com/bookworm/fr/tags/"
+                href="https://jjuicecode.github.io/fr/tags/"
                 />
   </url>
 </urlset>

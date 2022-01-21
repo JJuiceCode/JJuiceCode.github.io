@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.gethugothemes.com/bookworm/blog/post1/</loc>
+    <loc>https://jjuicecode.github.io/blog/post1/</loc>
   </url><url>
-    <loc>https://demo.gethugothemes.com/bookworm/blog/</loc>
+    <loc>https://jjuicecode.github.io/blog/</loc>
   </url><url>
-    <loc>https://demo.gethugothemes.com/bookworm/</loc>
+    <loc>https://jjuicecode.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://demo.gethugothemes.com/bookworm/fr/"
+                href="https://jjuicecode.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.gethugothemes.com/bookworm/"
+                href="https://jjuicecode.github.io/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/bookworm/categories/</loc>
+    <loc>https://jjuicecode.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://demo.gethugothemes.com/bookworm/fr/categories/"
+                href="https://jjuicecode.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.gethugothemes.com/bookworm/categories/"
+                href="https://jjuicecode.github.io/categories/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/bookworm/tags/</loc>
+    <loc>https://jjuicecode.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://demo.gethugothemes.com/bookworm/fr/tags/"
+                href="https://jjuicecode.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.gethugothemes.com/bookworm/tags/"
+                href="https://jjuicecode.github.io/tags/"
                 />
   </url>
 </urlset>
