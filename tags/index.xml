@@ -1,90 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Bookworm - HUGO Blog Theme</title>
+    <title>Tags on JJuice Blog</title>
     <link>https://jjuicecode.github.io/tags/</link>
-    <description>Recent content in Tags on Bookworm - HUGO Blog Theme</description>
+    <description>Recent content in Tags on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 05 Feb 2021 16:56:47 +0600</lastBuildDate><atom:link href="https://jjuicecode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 24 Jan 2022 11:22:05 +0900</lastBuildDate><atom:link href="https://jjuicecode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Diy</title>
-      <link>https://jjuicecode.github.io/tags/diy/</link>
-      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
+      <title>macos</title>
+      <link>https://jjuicecode.github.io/tags/macos/</link>
+      <pubDate>Mon, 24 Jan 2022 11:22:05 +0900</pubDate>
       
-      <guid>https://jjuicecode.github.io/tags/diy/</guid>
+      <guid>https://jjuicecode.github.io/tags/macos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Toy</title>
-      <link>https://jjuicecode.github.io/tags/toy/</link>
-      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
+      <title>typora</title>
+      <link>https://jjuicecode.github.io/tags/typora/</link>
+      <pubDate>Mon, 24 Jan 2022 11:22:05 +0900</pubDate>
       
-      <guid>https://jjuicecode.github.io/tags/toy/</guid>
+      <guid>https://jjuicecode.github.io/tags/typora/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photography</title>
-      <link>https://jjuicecode.github.io/tags/photography/</link>
-      <pubDate>Thu, 04 Feb 2021 16:56:47 +0600</pubDate>
+      <title>uPic</title>
+      <link>https://jjuicecode.github.io/tags/upic/</link>
+      <pubDate>Mon, 24 Jan 2022 11:22:05 +0900</pubDate>
       
-      <guid>https://jjuicecode.github.io/tags/photography/</guid>
+      <guid>https://jjuicecode.github.io/tags/upic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alarm</title>
-      <link>https://jjuicecode.github.io/tags/alarm/</link>
-      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
+      <title>이미지업로드</title>
+      <link>https://jjuicecode.github.io/tags/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%85%EB%A1%9C%EB%93%9C/</link>
+      <pubDate>Mon, 24 Jan 2022 11:22:05 +0900</pubDate>
       
-      <guid>https://jjuicecode.github.io/tags/alarm/</guid>
+      <guid>https://jjuicecode.github.io/tags/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%85%EB%A1%9C%EB%93%9C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Clock</title>
-      <link>https://jjuicecode.github.io/tags/clock/</link>
-      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
+      <title>자동업로드</title>
+      <link>https://jjuicecode.github.io/tags/%EC%9E%90%EB%8F%99%EC%97%85%EB%A1%9C%EB%93%9C/</link>
+      <pubDate>Mon, 24 Jan 2022 11:22:05 +0900</pubDate>
       
-      <guid>https://jjuicecode.github.io/tags/clock/</guid>
+      <guid>https://jjuicecode.github.io/tags/%EC%9E%90%EB%8F%99%EC%97%85%EB%A1%9C%EB%93%9C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Balloon</title>
-      <link>https://jjuicecode.github.io/tags/balloon/</link>
-      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
+      <title>타이포라</title>
+      <link>https://jjuicecode.github.io/tags/%ED%83%80%EC%9D%B4%ED%8F%AC%EB%9D%BC/</link>
+      <pubDate>Mon, 24 Jan 2022 11:22:05 +0900</pubDate>
       
-      <guid>https://jjuicecode.github.io/tags/balloon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gas</title>
-      <link>https://jjuicecode.github.io/tags/gas/</link>
-      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
-      
-      <guid>https://jjuicecode.github.io/tags/gas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>https://jjuicecode.github.io/tags/food/</link>
-      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
-      
-      <guid>https://jjuicecode.github.io/tags/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gold</title>
-      <link>https://jjuicecode.github.io/tags/gold/</link>
-      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
-      
-      <guid>https://jjuicecode.github.io/tags/gold/</guid>
+      <guid>https://jjuicecode.github.io/tags/%ED%83%80%EC%9D%B4%ED%8F%AC%EB%9D%BC/</guid>
       <description></description>
     </item>
     

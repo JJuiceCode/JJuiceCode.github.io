@@ -6,8 +6,13 @@
     <lastmod>2021-02-05T16:56:47+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -15,25 +20,17 @@
                 href="https://jjuicecode.github.io/fr/blog/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/fr/</loc>
-    <lastmod>2021-02-05T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/"
-                />
-  </url><url>
     <loc>https://jjuicecode.github.io/fr/categories/</loc>
     <lastmod>2021-02-05T16:56:47+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -46,7 +43,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/tags/diy/"
+                href="https://jjuicecode.github.io/en/tags/diy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -59,7 +56,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/blog/post-8/"
+                href="https://jjuicecode.github.io/en/blog/post-8/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -67,12 +64,30 @@
                 href="https://jjuicecode.github.io/fr/blog/post-8/"
                 />
   </url><url>
+    <loc>https://jjuicecode.github.io/fr/</loc>
+    <lastmod>2021-02-05T16:56:47+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jjuicecode.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jjuicecode.github.io/fr/"
+                />
+  </url><url>
     <loc>https://jjuicecode.github.io/fr/categories/lifestyle/</loc>
     <lastmod>2021-02-05T16:56:47+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/categories/lifestyle/"
+                href="https://jjuicecode.github.io/en/categories/lifestyle/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -84,8 +99,13 @@
     <lastmod>2021-02-05T16:56:47+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -98,7 +118,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/tags/toy/"
+                href="https://jjuicecode.github.io/en/tags/toy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -111,7 +131,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/tags/photography/"
+                href="https://jjuicecode.github.io/en/tags/photography/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -124,7 +144,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/categories/photography/"
+                href="https://jjuicecode.github.io/en/categories/photography/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -137,7 +157,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/blog/post-7/"
+                href="https://jjuicecode.github.io/en/blog/post-7/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -150,7 +170,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/tags/alarm/"
+                href="https://jjuicecode.github.io/en/tags/alarm/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -163,7 +183,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/blog/post-6/"
+                href="https://jjuicecode.github.io/en/blog/post-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -176,7 +196,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/tags/clock/"
+                href="https://jjuicecode.github.io/en/tags/clock/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -189,7 +209,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/categories/accessories/"
+                href="https://jjuicecode.github.io/en/categories/accessories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -202,7 +222,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/tags/balloon/"
+                href="https://jjuicecode.github.io/en/tags/balloon/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -215,7 +235,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/tags/gas/"
+                href="https://jjuicecode.github.io/en/tags/gas/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -228,7 +248,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/blog/post-5/"
+                href="https://jjuicecode.github.io/en/blog/post-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -241,7 +261,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/author/henara-colii/"
+                href="https://jjuicecode.github.io/en/author/henara-colii/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -254,7 +274,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/author/lubana-era/"
+                href="https://jjuicecode.github.io/en/author/lubana-era/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -266,8 +286,13 @@
     <lastmod>2021-01-26T10:13:00+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/author/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -280,7 +305,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/blog/post-4/"
+                href="https://jjuicecode.github.io/en/blog/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -293,7 +318,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/tags/food/"
+                href="https://jjuicecode.github.io/en/tags/food/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -306,7 +331,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/categories/food/"
+                href="https://jjuicecode.github.io/en/categories/food/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -319,7 +344,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/tags/gold/"
+                href="https://jjuicecode.github.io/en/tags/gold/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -332,7 +357,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/blog/post-3/"
+                href="https://jjuicecode.github.io/en/blog/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -345,7 +370,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/blog/post-2/"
+                href="https://jjuicecode.github.io/en/blog/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -358,7 +383,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/blog/post-1/"
+                href="https://jjuicecode.github.io/en/blog/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -370,8 +395,13 @@
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -382,8 +412,13 @@
     <loc>https://jjuicecode.github.io/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -394,8 +429,13 @@
     <loc>https://jjuicecode.github.io/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -406,8 +446,13 @@
     <loc>https://jjuicecode.github.io/fr/elements/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/elements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/elements/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -418,8 +463,13 @@
     <loc>https://jjuicecode.github.io/fr/homepage/grid/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/homepage/grid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/homepage/grid/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -430,8 +480,13 @@
     <loc>https://jjuicecode.github.io/fr/homepage/list/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/homepage/list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/homepage/list/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -442,8 +497,13 @@
     <loc>https://jjuicecode.github.io/fr/homepage/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/homepage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/homepage/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -454,8 +514,13 @@
     <loc>https://jjuicecode.github.io/fr/404/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/404/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/404/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -466,8 +531,13 @@
     <loc>https://jjuicecode.github.io/fr/privacy/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -478,8 +548,13 @@
     <loc>https://jjuicecode.github.io/fr/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://jjuicecode.github.io/terms-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"

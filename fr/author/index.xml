@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Author on Bookworm - HUGO Blog Theme</title>
+    <title>Author on JJuice Blog</title>
     <link>https://jjuicecode.github.io/fr/author/</link>
-    <description>Recent content in Author on Bookworm - HUGO Blog Theme</description>
+    <description>Recent content in Author on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 26 Jan 2021 10:13:00 +0600</lastBuildDate><atom:link href="https://jjuicecode.github.io/fr/author/index.xml" rel="self" type="application/rss+xml" />
