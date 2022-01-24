@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Typora 이미지 자동 업로드 (mac 환경)</title>
-      <link>https://jjuicecode.github.io/blog/typora_macos_autoimageupload/</link>
-      <pubDate>Mon, 24 Jan 2022 11:22:05 +0900</pubDate>
-      
-      <guid>https://jjuicecode.github.io/blog/typora_macos_autoimageupload/</guid>
-      <description>시작하기에 앞서.. 2</description>
-    </item>
-    
-    <item>
       <title>Search Result</title>
       <link>https://jjuicecode.github.io/search/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
@@ -104,6 +95,15 @@
       
       <guid>https://jjuicecode.github.io/terms-conditions/</guid>
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
+    <item>
+      <title>Typora 이미지 자동 업로드 (mac 환경)</title>
+      <link>https://jjuicecode.github.io/blog/typora_macos_autoimageupload/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjuicecode.github.io/blog/typora_macos_autoimageupload/</guid>
+      <description>시작하기에 앞서.. 2</description>
     </item>
     
   </channel>
