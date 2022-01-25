@@ -5,13 +5,14 @@
     <link>https://jjuicecode.github.io/tags/typora/</link>
     <description>Recent content in typora on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language><atom:link href="https://jjuicecode.github.io/tags/typora/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jjuicecode.github.io/tags/typora/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Typora 이미지 자동 업로드 (mac 환경)</title>
-      <link>https://jjuicecode.github.io/blog/typora_macos_autoimageupload/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Typora 이미지 자동 업로드 (mac 환경).1</title>
+      <link>https://jjuicecode.github.io/tool/typora_macos_autoimageupload/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jjuicecode.github.io/blog/typora_macos_autoimageupload/</guid>
+      <guid>https://jjuicecode.github.io/tool/typora_macos_autoimageupload/</guid>
       <description>시작하기에 앞서.. 2</description>
     </item>
     
