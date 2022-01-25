@@ -68,7 +68,7 @@
     <loc>https://jjuicecode.github.io/tool/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/categories/tool-tip/</loc>
+    <loc>https://jjuicecode.github.io/categories/tool/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/author/jjuice/</loc>
@@ -273,6 +273,23 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://jjuicecode.github.io/privacy/"
+                />
+  </url><url>
+    <loc>https://jjuicecode.github.io/subcategories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/subcategories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jjuicecode.github.io/fr/subcategories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jjuicecode.github.io/subcategories/"
                 />
   </url><url>
     <loc>https://jjuicecode.github.io/terms-conditions/</loc>
