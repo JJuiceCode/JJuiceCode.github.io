@@ -191,6 +191,8 @@
                 href="https://jjuicecode.github.io/elements/"
                 />
   </url><url>
+    <loc>https://jjuicecode.github.io/blog/favorite/</loc>
+  </url><url>
     <loc>https://jjuicecode.github.io/homepage/grid/</loc>
     <xhtml:link
                 rel="alternate"
@@ -275,6 +277,10 @@
                 hreflang="ko"
                 href="https://jjuicecode.github.io/privacy/"
                 />
+  </url><url>
+    <loc>https://jjuicecode.github.io/blog/sideproject/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/blog/study/</loc>
   </url><url>
     <loc>https://jjuicecode.github.io/subcategories/</loc>
     <xhtml:link
