@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jjuicecode.github.io/blog/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jjuicecode.github.io/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jjuicecode.github.io/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jjuicecode.github.io/blog/"
+                />
+  </url><url>
     <loc>https://jjuicecode.github.io/categories/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -41,7 +59,7 @@
     <loc>https://jjuicecode.github.io/tags/phpstorm/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/tool/phpstorm_exclusion_folder/</loc>
+    <loc>https://jjuicecode.github.io/blog/tool/phpstorm_exclusion_folder/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/tags/setting/</loc>
@@ -65,7 +83,7 @@
                 href="https://jjuicecode.github.io/tags/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/tool/</loc>
+    <loc>https://jjuicecode.github.io/blog/tool/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/categories/tool/</loc>
@@ -80,7 +98,7 @@
     <loc>https://jjuicecode.github.io/tags/typora/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/tool/typora_macos_autoimageupload/</loc>
+    <loc>https://jjuicecode.github.io/blog/tool/typora_macos_autoimageupload/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/tags/upic/</loc>
@@ -137,23 +155,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://jjuicecode.github.io/about/"
-                />
-  </url><url>
-    <loc>https://jjuicecode.github.io/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/blog/"
                 />
   </url><url>
     <loc>https://jjuicecode.github.io/contact/</loc>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tool on JJuice Blog</title>
-    <link>https://jjuicecode.github.io/categories/tool/</link>
-    <description>Recent content in tool on JJuice Blog</description>
+    <title>Tool on JJuice Blog</title>
+    <link>https://jjuicecode.github.io/blog/tool/</link>
+    <description>Recent content in Tool on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jjuicecode.github.io/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jjuicecode.github.io/blog/tool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PHPStorm &amp; Webstorm에서 특정 폴더 검색 제외하기</title>
       <link>https://jjuicecode.github.io/blog/tool/phpstorm_exclusion_folder/</link>
