@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jjuicecode.github.io/blog/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/blog/"
-                />
-  </url><url>
     <loc>https://jjuicecode.github.io/categories/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -37,6 +19,9 @@
                 hreflang="ko"
                 href="https://jjuicecode.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://jjuicecode.github.io/categories/favorite/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
@@ -59,7 +44,7 @@
     <loc>https://jjuicecode.github.io/tags/phpstorm/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/blog/tool/phpstorm_exclusion_folder/</loc>
+    <loc>https://jjuicecode.github.io/tool/phpstorm_exclusion_folder/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/tags/setting/</loc>
@@ -83,10 +68,7 @@
                 href="https://jjuicecode.github.io/tags/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/blog/tool/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jjuicecode.github.io/categories/tool/</loc>
+    <loc>https://jjuicecode.github.io/tool/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/author/jjuice/</loc>
@@ -95,10 +77,13 @@
     <loc>https://jjuicecode.github.io/tags/github/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jjuicecode.github.io/categories/tool/</loc>
+    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jjuicecode.github.io/tags/typora/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/blog/tool/typora_macos_autoimageupload/</loc>
+    <loc>https://jjuicecode.github.io/tool/typora_macos_autoimageupload/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/tags/upic/</loc>
@@ -106,181 +91,33 @@
   </url><url>
     <loc>https://jjuicecode.github.io/author/</loc>
     <lastmod>2021-01-26T10:13:00+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/author/"
-                />
   </url><url>
     <loc>https://jjuicecode.github.io/search/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/search/"
-                />
   </url><url>
     <loc>https://jjuicecode.github.io/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/about/"
-                />
+  </url><url>
+    <loc>https://jjuicecode.github.io/blog/</loc>
   </url><url>
     <loc>https://jjuicecode.github.io/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/contact/"
-                />
   </url><url>
     <loc>https://jjuicecode.github.io/elements/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/elements/"
-                />
   </url><url>
-    <loc>https://jjuicecode.github.io/blog/favorite/</loc>
-  </url><url>
-    <loc>https://jjuicecode.github.io/homepage/grid/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/homepage/grid/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/homepage/grid/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/homepage/grid/"
-                />
-  </url><url>
-    <loc>https://jjuicecode.github.io/homepage/list/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/homepage/list/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/homepage/list/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/homepage/list/"
-                />
+    <loc>https://jjuicecode.github.io/favorite/</loc>
   </url><url>
     <loc>https://jjuicecode.github.io/homepage/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/homepage/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/homepage/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/homepage/"
-                />
+  </url><url>
+    <loc>https://jjuicecode.github.io/homepage/grid/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/homepage/list/</loc>
   </url><url>
     <loc>https://jjuicecode.github.io/404/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/404/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/404/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/404/"
-                />
   </url><url>
     <loc>https://jjuicecode.github.io/privacy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/privacy/"
-                />
   </url><url>
-    <loc>https://jjuicecode.github.io/blog/sideproject/</loc>
+    <loc>https://jjuicecode.github.io/sideproject/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/blog/study/</loc>
+    <loc>https://jjuicecode.github.io/study/</loc>
   </url><url>
     <loc>https://jjuicecode.github.io/subcategories/</loc>
     <xhtml:link
@@ -300,20 +137,5 @@
                 />
   </url><url>
     <loc>https://jjuicecode.github.io/terms-conditions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jjuicecode.github.io/en/terms-conditions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jjuicecode.github.io/fr/terms-conditions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jjuicecode.github.io/terms-conditions/"
-                />
   </url>
 </urlset>
