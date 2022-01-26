@@ -20,9 +20,6 @@
                 href="https://jjuicecode.github.io/categories/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/categories/favorite/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jjuicecode.github.io/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -71,13 +68,13 @@
     <loc>https://jjuicecode.github.io/tool/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jjuicecode.github.io/categories/tool/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jjuicecode.github.io/author/jjuice/</loc>
     <lastmod>2022-01-24T11:32:14+09:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/tags/github/</loc>
-    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jjuicecode.github.io/categories/tool/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/tags/typora/</loc>
