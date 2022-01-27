@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jjuicecode.github.io/fr/categories/</loc>
+    <loc>/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://jjuicecode.github.io/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jjuicecode.github.io/fr/categories/"
+                href="/fr/categories/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/fr/</loc>
+    <loc>/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://jjuicecode.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jjuicecode.github.io/fr/"
+                href="/fr/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/fr/subcategories/</loc>
+    <loc>/fr/subcategories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://jjuicecode.github.io/subcategories/"
+                href="/subcategories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/en/subcategories/"
+                href="/en/subcategories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jjuicecode.github.io/fr/subcategories/"
+                href="/fr/subcategories/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/fr/tags/</loc>
+    <loc>/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://jjuicecode.github.io/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jjuicecode.github.io/fr/tags/"
+                href="/fr/tags/"
                 />
   </url>
 </urlset>

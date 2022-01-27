@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>uPic on JJuice Blog</title>
-    <link>https://jjuicecode.github.io/tags/upic/</link>
+    <link>/tags/upic/</link>
     <description>Recent content in uPic on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jjuicecode.github.io/tags/upic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/upic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typora 이미지 자동 업로드 (mac 환경)</title>
-      <link>https://jjuicecode.github.io/tool/typora_macos_autoimageupload/</link>
+      <link>/tool/typora_macos_autoimageupload/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jjuicecode.github.io/tool/typora_macos_autoimageupload/</guid>
+      <guid>/tool/typora_macos_autoimageupload/</guid>
       <description>시작하기에 앞서.. 2</description>
     </item>
     

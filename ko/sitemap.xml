@@ -2,141 +2,141 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jjuicecode.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jjuicecode.github.io/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://jjuicecode.github.io/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jjuicecode.github.io/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://jjuicecode.github.io/"
+                href="/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/tags/phpstorm/</loc>
+    <loc>/tags/phpstorm/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/study/phpstorm_exclusion_folder2/</loc>
+    <loc>/study/phpstorm_exclusion_folder2/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/tool/phpstorm_exclusion_folder/</loc>
+    <loc>/tool/phpstorm_exclusion_folder/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/tags/setting/</loc>
+    <loc>/tags/setting/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/study/</loc>
+    <loc>/study/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jjuicecode.github.io/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://jjuicecode.github.io/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/tool/</loc>
+    <loc>/tool/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/categories/tool/</loc>
+    <loc>/categories/tool/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/author/jjuice/</loc>
+    <loc>/author/jjuice/</loc>
     <lastmod>2022-01-24T11:32:14+09:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/tags/github/</loc>
+    <loc>/tags/github/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/tags/typora/</loc>
+    <loc>/tags/typora/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/tool/typora_macos_autoimageupload/</loc>
+    <loc>/tool/typora_macos_autoimageupload/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/tags/upic/</loc>
+    <loc>/tags/upic/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/author/</loc>
+    <loc>/author/</loc>
     <lastmod>2021-01-26T10:13:00+06:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/search/</loc>
+    <loc>/search/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/blog/</loc>
+    <loc>/blog/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/elements/</loc>
+    <loc>/elements/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/favorite/</loc>
+    <loc>/favorite/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/homepage/</loc>
+    <loc>/homepage/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/homepage/grid/</loc>
+    <loc>/homepage/grid/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/homepage/list/</loc>
+    <loc>/homepage/list/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/404/</loc>
+    <loc>/404/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/privacy/</loc>
+    <loc>/privacy/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/sideproject/</loc>
+    <loc>/sideproject/</loc>
   </url><url>
-    <loc>https://jjuicecode.github.io/subcategories/</loc>
+    <loc>/subcategories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jjuicecode.github.io/en/subcategories/"
+                href="/en/subcategories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jjuicecode.github.io/fr/subcategories/"
+                href="/fr/subcategories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://jjuicecode.github.io/subcategories/"
+                href="/subcategories/"
                 />
   </url><url>
-    <loc>https://jjuicecode.github.io/terms-conditions/</loc>
+    <loc>/terms-conditions/</loc>
   </url>
 </urlset>

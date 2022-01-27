@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Subcategories on JJuice Blog</title>
-    <link>https://jjuicecode.github.io/en/subcategories/</link>
+    <link>/en/subcategories/</link>
     <description>Recent content in Subcategories on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jjuicecode.github.io/en/subcategories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/en/subcategories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
