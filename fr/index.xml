@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JJuice Blog</title>
-    <link>/fr/</link>
+    <link>https://jjuicecode.github.io/fr/</link>
     <description>Recent content on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://jjuicecode.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

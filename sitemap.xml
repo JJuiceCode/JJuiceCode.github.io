@@ -2,19 +2,19 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>/ko/sitemap.xml</loc>
+    <loc>https://jjuicecode.github.io/ko/sitemap.xml</loc>
     
       <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>/en/sitemap.xml</loc>
+    <loc>https://jjuicecode.github.io/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>/fr/sitemap.xml</loc>
+    <loc>https://jjuicecode.github.io/fr/sitemap.xml</loc>
     
   </sitemap>
   
