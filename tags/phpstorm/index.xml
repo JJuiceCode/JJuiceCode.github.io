@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phpstorm on JJuice Blog</title>
-    <link>https://jjuicecode.github.io/tags/phpstorm/</link>
+    <link>/tags/phpstorm/</link>
     <description>Recent content in phpstorm on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jjuicecode.github.io/tags/phpstorm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/phpstorm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PHPStorm &amp; Webstorm에서 특정 폴더 검색 제외하기</title>
-      <link>https://jjuicecode.github.io/tool/phpstorm_exclusion_folder/</link>
+      <link>/tool/phpstorm_exclusion_folder/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jjuicecode.github.io/tool/phpstorm_exclusion_folder/</guid>
+      <guid>/tool/phpstorm_exclusion_folder/</guid>
       <description>시작하기에 앞서.. g</description>
     </item>
     
