@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study on JJuice Blog</title>
-    <link>/study/</link>
+    <link>https://jjuicecode.github.io/study/</link>
     <description>Recent content in Study on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language><atom:link href="/study/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language><atom:link href="https://jjuicecode.github.io/study/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elements</title>
-      <link>/study/elements/</link>
+      <link>https://jjuicecode.github.io/study/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/study/elements/</guid>
+      <guid>https://jjuicecode.github.io/study/elements/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     

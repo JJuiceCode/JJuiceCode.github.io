@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tool on JJuice Blog</title>
-    <link>/categories/tool/</link>
+    <link>https://jjuicecode.github.io/categories/tool/</link>
     <description>Recent content in tool on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jjuicecode.github.io/categories/tool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PHPStorm &amp; Webstorm에서 특정 폴더 검색 제외하기</title>
-      <link>/tool/phpstorm_exclusion_folder/</link>
+      <link>https://jjuicecode.github.io/tool/phpstorm_exclusion_folder/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tool/phpstorm_exclusion_folder/</guid>
+      <guid>https://jjuicecode.github.io/tool/phpstorm_exclusion_folder/</guid>
       <description>시작하기에 앞서.. g</description>
     </item>
     
     <item>
       <title>Typora 이미지 자동 업로드 (mac 환경)</title>
-      <link>/tool/typora_macos_autoimageupload/</link>
+      <link>https://jjuicecode.github.io/tool/typora_macos_autoimageupload/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tool/typora_macos_autoimageupload/</guid>
+      <guid>https://jjuicecode.github.io/tool/typora_macos_autoimageupload/</guid>
       <description>시작하기에 앞서.. 2</description>
     </item>
     
