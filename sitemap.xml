@@ -1,21 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://jjuicecode.github.io/ko/sitemap.xml</loc>
-    
-      <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://jjuicecode.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://jjuicecode.github.io/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jjuicecode.github.io/categories/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/tags/phpstorm/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/tool/phpstorm_exclusion_folder/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/tags/setting/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/tags/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/tool/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/categories/tool/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/author/jjuice/</loc>
+    <lastmod>2022-01-24T11:32:14+09:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/tags/github/</loc>
+    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/tags/typora/</loc>
+    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/tool/typora_macos_autoimageupload/</loc>
+    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/tags/upic/</loc>
+    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/author/</loc>
+    <lastmod>2021-01-26T10:13:00+06:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/search/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/about/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/contact/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/elements/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/favorite/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/homepage/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/homepage/grid/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/homepage/list/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/404/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/privacy/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/sideproject/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/study/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/subcategories/</loc>
+  </url><url>
+    <loc>https://jjuicecode.github.io/terms-conditions/</loc>
+  </url>
+</urlset>
