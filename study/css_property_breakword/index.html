@@ -3,13 +3,13 @@
 
 <head>
 	<meta charset="utf-8">
-<title>JJuice</title>
+<title>HTML 텍스트 줄바꿈을 단어 기준으로 정하게 만들어 주는 CSS 속성 | break-word</title>
 
 
 
 
 
-<link rel="canonical" href="https://jjuicecode.github.io/author/jjuice/" itemprop="url" />
+<link rel="canonical" href="https://jjuicecode.github.io/study/css_property_breakword/" itemprop="url" />
 
 
 <link rel="manifest" href="/manifest.webmanifest">
@@ -76,8 +76,6 @@
 
 
 
-
-
  
 
 
@@ -101,16 +99,12 @@
 
 
 
-
-<meta property="og:image" content="/images/author/author_jjuice.jpg" />
-<meta name="twitter:image" content="/images/author/author_jjuice.jpg" />
-<meta name="twitter:card" content="summary">
  
-<meta property="og:image:width" content="400">
-<meta property="og:image:height" content="400">
+<meta property="og:image:width" content="48">
+<meta property="og:image:height" content="48">
  
 
-<meta property="og:image:type" content="image/.jpg">
+<meta property="og:image:type" content="image/.png">
  
 
  
@@ -118,14 +112,14 @@
 
 
 
-<meta property="og:title" content="JJuice" />
-<meta property="og:description" content="My name is JJuice " />
+<meta property="og:title" content="HTML 텍스트 줄바꿈을 단어 기준으로 정하게 만들어 주는 CSS 속성 | break-word" />
+<meta property="og:description" content="시작하기에 앞서 HTML 홈페" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://jjuicecode.github.io/author/jjuice/" />
+<meta property="og:url" content="https://jjuicecode.github.io/study/css_property_breakword/" />
 
 
-<meta name="twitter:title" content="JJuice" />
-<meta name="twitter:description" content="My name is JJuice " />
+<meta name="twitter:title" content="HTML 텍스트 줄바꿈을 단어 기준으로 정하게 만들어 주는 CSS 속성 | break-word" />
+<meta name="twitter:description" content="시작하기에 앞서 HTML 홈페" />
 
 
 
@@ -454,174 +448,129 @@ if (!doNotTrack) {
 
 
 
-  <section class="section-sm pb-2 page-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-8 mx-auto text-center">
-
-        
-        <h3 class="mb-3 text-dark font-weight-bold">JJuice</h3>
-        
-
-
-        <ul class="list-inline breadcrumb-menu">
-        
-        
-        <li class="list-inline-item"><a href="/">Home</a></li>
-        
-        
-        
-        
-        <li class="list-inline-item">/ &nbsp; <a href="https://jjuicecode.github.io/author">Author</a></li>
-        
-        
-        
-        
-        
-        
-        
-        <li class="list-inline-item">/ &nbsp; <a href="https://jjuicecode.github.io/author/jjuice">Jjuice</a></li>
-        
-        
-        
-        
-        
-        
-        
-        </ul>
-
-      </div>
-    </div>
-  </div>
-</section>
-
-
 
 	<main>
 		
-<h1>Author Page</h1>
+
+
+
+
 <section class="section-sm">
   <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-12 mb-4">
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img loading="lazy" decoding="async" src="/images/author/author_jjuice_hu7f600e8a93dea888a0c30a326e78dcc5_22539_150x150_resize_q100_h2_box.webp" alt="JJuice" class="img-fluid rounded mb-5" width="150" height="150" onerror="this.onerror='null';this.src='\/images\/author\/author_jjuice_hu7f600e8a93dea888a0c30a326e78dcc5_22539_150x150_resize_q100_box.jpg'">
- 
- 
- 
-
-
-
-        
-
-        <h3 class="text-dark font-weight-700 mb-2">JJuice</h3>
-        <ul class="social-links list-unstyled list-inline ms-0 ms-sm-n2">
-          
-          <li class="list-inline-item"><a href="https://facebook.com">
-              <i class="lab fab fa-facebook-f"></i>
-            </a></li>
-          
-          <li class="list-inline-item"><a href="https://twitter.com">
-              <i class="lab fab fa-twitter"></i>
-            </a></li>
-          
-          <li class="list-inline-item"><a href="https://linkedin.com">
-              <i class="lab fab fa-instagram"></i>
-            </a></li>
-          
-        </ul>
-      </div>
-      <div class="col-lg-8">
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
         <div class="content">
-          <h2 id="my-name-is-jjuice">My name is JJuice</h2>
+          <h1 id="시작하기에-앞서">시작하기에 앞서</h1>
+<p>HTML 홈페이지의 컨텐츠를 만들다 보면 <code>&lt;p&gt;</code> 태그에 블락 영역 단위로 아래와 같이 &lsquo;한글or영어&rsquo; 텍스트 내용을 입력하게 된다.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;mt-8 text-lg&#34;</span>&gt;
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean    		necmollisnulla.Phase lluslacinia tempusmauriseulaoreet.Proin gravida velit dictum dui consequat malesuada.
+&lt;/<span style="color:#f92672">p</span>&gt;
+&lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;mt-8 text-lg&#34;</span>&gt;
+	하이엔드 스피커의 대명사인 FOCAL(포컬)은 1972년 설립되어 지금까지 홈오디오는 물론,
+	카오디오와 프로페셔널 오디오까지 다양한 라인업으로 유럽에서는 60%의 절대적인 시장
+	점유율을 기록하고 있습니다.
+&lt;/<span style="color:#f92672">p</span>&gt;
+</code></pre></div><p>특별한 CSS 속성값을 부여해주지 않으면 아래의 이미지같이 렌더링되어 텍스트가 출력된다.</p>
+<p><img src="https://raw.githubusercontent.com/JJuiceCode/blog.image.server/main/2022/image-20220203113606947.png" alt="image-20220203113606947"></p>
+<p><img src="https://raw.githubusercontent.com/JJuiceCode/blog.image.server/main/2022/image-20220203113938066.png" alt="image-20220203113938066"></p>
+<p>상황에 따라 다르겠지만 보통 가독성을 높이기 위해서는 단어별로 줄 바꿈을 해주는게 더 좋아보인다.</p>
+<p>위와 같은 경우 <code>word-break</code> CSS속성을 이용해 단어 기준으로 줄 바꿈을 할지 OR 글자 기준으로 줄 바꿈을 할지 설정이 가능하다. 그 방법에 대해서 알아보자.</p>
+<h3 id="-제대로-짚고-넘어가기">※ 제대로 짚고 넘어가기</h3>
+<ul>
+<li>보통 HTML에서 사용되는 다양한 언어를 2가지 타입으로 나뉜다.
+<ul>
+<li>중국어/일본어/한글 : <strong>CJK</strong></li>
+<li>그 외 언어 숫자/영어등 : <strong>non-CJK</strong></li>
+</ul>
+</li>
+<li>보통 글자들을 나누는 중단점 <code>.</code> 이 존재하는데 이 2가지 언어 타입은 중단점<code>.</code> 의 기준이 다르다.
+<ul>
+<li>CJK 중단점 기준 : 음절</li>
+<li>non-CJK 중단점 기준 : 공백(띄어쓰기, 하이픈<code>-</code>)</li>
+</ul>
+</li>
+<li>아래의 예제를 보며 이해해보자.</li>
+</ul>
+<p>▶ 언어 타입에 따른 중단점<code>.</code>  위치 살펴보기</p>
+<pre tabindex="0"><code>[한글,영어 단어 예제]
+저는 한글입니다
+and english language
+</code></pre><pre tabindex="0"><code>[기본 중단점 한글→음절 / 영어→공백]
+저·는·한·글·입·니·다
+and·english·language
+</code></pre><ul>
+<li>위처럼 한글과 영어의 중단점<code>.</code> 의 위치를 정확히 짚고 다음단계로 넘어가도록 하자.</li>
+</ul>
+<h2 id="-word-break-속성-알아보기">@ <code>word-break</code> 속성 알아보기</h2>
+<h3 id="word-break-무엇에-쓰는-물건인고"><code>word-break</code> 무엇에 쓰는 물건인고?</h3>
+<p>└ 줄바꿈을 할 때 단어 기준으로 할 지 or 글자 기준으로 할지 정하는 CSS 속성입니다.</p>
+<ul>
+<li>
+<p>더 정확히 정의하자면 텍스트가 자신의 컨텐츠 영역(컨테이너 박스)밖으로 oveflow할때(벗어날때) <u>줄을 어떻게 바꿀 지</u> 지정해주는 CSS 속성입니다.</p>
+<blockquote>
+<p>&lsquo;줄을 어떻게 바꿀 지&rsquo; 이 부분은 <strong>※ 제대로 짚고 넘어가기</strong> 기준으로 다시 해석하자면</p>
+<p>​	→ CJK or non CJK 텍스트의 중단점<code>.</code> 을 어떤 기준을 정해줄지 라고 해석할 수 있을거 같다.</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="word-break--속성값-알아보기"><code>word-break</code>  속성값 알아보기</h3>
+<pre tabindex="0"><code>word-break : normal | break-all | keep-all | initial | inherit;
+</code></pre><ul>
+<li><code>initial:기본값</code> 으로 설정 &amp; <code>inherit 부모 요소의 속성값을 상속</code> → 이 2가지의 속성값에 대해서는 다른 설명을 추가하지 않겠습니다.</li>
+</ul>
+<h4 id="-normal---cjk--non-cjk-둘-다-기본-중단점--기준으로-줄바꿈을-설정한다">● <code>normal</code>  : CJK &amp; non CJK 둘 다 기본 중단점<code>.</code>  기준으로 줄바꿈을 설정한다.</h4>
+<pre tabindex="0"><code>[한글,영어 단어 예제 → word-break:normal 적용]
+저·는·한·글·입·니·다
+and·english·language
+</code></pre><p>실제 예제 출력 결과물을 살펴보자.</p>
+<p><img src="https://raw.githubusercontent.com/JJuiceCode/blog.image.server/main/2022/image-20220203141353080.png" alt="image-20220203141353080"></p>
+<blockquote>
+<p>똑같이 적용된 <code>word-break: normal;</code> 이지만  <strong>※제대로 짚고 넘어가기</strong>에서 처럼 영어와 한글의 중단점<code>.</code> 의 기준이 다르게 때문에  결과값이 다르다는 걸 꼭 인식해야 합니다.</p>
+</blockquote>
+<h4 id="-break-all--cjk--non-cjk-둘-다-중단점의-기준점을-음절로-둔다">● <code>break-all</code> : CJK &amp; non CJK 둘 다 중단점의 기준점을 &lsquo;음절&rsquo;로 둔다.</h4>
+<pre tabindex="0"><code>[한글,영어 단어 예제 → word-break:break-all 적용]
+저·는·한·글·입·니·다
+a·n·d·e·n·g·l·i·s·h·l·a·n·g·u·a·g·e
+</code></pre><p>실제 예제 출력 결과물을 살펴보자.</p>
+<p><img src="https://raw.githubusercontent.com/JJuiceCode/blog.image.server/main/2022/image-20220203132327207.png" alt="image-20220203132327207"></p>
+<blockquote>
+<p><code>word-break:break-all</code> 적용된 후의 출력된 값입니다. 한글 같은 경우 원래의 중단점<code>.</code> 기준이 <strong>음절</strong>이였기 <code>word-break: normal</code>과 다른게 없지만 영어 같은 경우 원래의 중단점<code>.</code> 기준 <strong>공백</strong> 이였기 때문에 기존의 <code>word-break: normal</code> 과 전혀 다른 결과물을 보여줍니다.</p>
+</blockquote>
+<h4 id="-keep-all--cjk--non-cjk-둘-다-중단점의-기준점을-공백로-둔다">● <code>keep-all</code> : CJK &amp; non CJK 둘 다 중단점의 기준점을 &lsquo;공백&rsquo;로 둔다.</h4>
+<ul>
+<li>여기서 공백에 하이픈<code>-</code> 도 포함이 된다.</li>
+</ul>
+<pre tabindex="0"><code>[한글,영어 단어 예제 → word-break:keep-all 적용]
+저는·한글·입니다
+and·english·language
+</code></pre><p>실제 예제 출력 결과물을 살펴보자.</p>
+<p><img src="https://raw.githubusercontent.com/JJuiceCode/blog.image.server/main/2022/image-20220203144939239.png" alt="image-20220203144939239"></p>
+<h2 id="결론">결론</h2>
+<p>제목처럼 &ldquo;HTML 텍스트 줄바꿈을 단어 기준으로 정하게 만들어 주는 CSS 속성&quot;을 적용시켜주려면 아래와 같이 해당 HTML 요소에 <code>word-break:keep-all</code>  CSS 속성값을  적용시켜주면 된다.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;mt-8 text-lg keep-all&#34;</span>&gt;
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean necmollisnulla.
+	Phase lluslacinia tempusmauriseulaoreet.Proin gravida velit dictum dui consequat malesuada.
+&lt;/<span style="color:#f92672">p</span>&gt;
+&lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;mt-8 text-lg keep-all&#34;</span>&gt;
+	하이엔드 스피커의 대명사인 FOCAL(포컬)은 1972년 설립되어 지금까지 홈오디오는 물론,
+	카오디오와 프로페셔널 오디오까지 다양한 라인업으로 유럽에서는 60%의 절대적인 시장
+	점유율을 기록하고 있습니다.
+&lt;/<span style="color:#f92672">p</span>&gt;
+</code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css">.<span style="color:#a6e22e">keep-all</span> {
+    <span style="color:#66d9ef">word-break</span>: keep-all;
+}
+</code></pre></div><p><img src="https://raw.githubusercontent.com/JJuiceCode/blog.image.server/main/2022/image-20220203144720941.png" alt="image-20220203144720941"></p>
+<h1 id="마무리하며">마무리하며..</h1>
+<p>처음에는 관련된 자료를 찾아보고 <code>word-break</code> 속성값의 기준은 &lsquo;글자 기준&rsquo; or &lsquo;단어 기준&rsquo; 인 줄 알았는게 그게 아니였다. 언어별로 나뉘는 중단점<code>.</code> 의 기준으로 나뉘는 것이였다는 것을 이번에 처음으로 알게 되었다.</p>
+<p>홈페이지 컨텐츠를 만들어가며 시간에 쫓긴다는 핑계로 단어별 줄바꿈도 제대로 적용을 해주지 않았다는 것에 반성을 해보기도 했다. (ㅠㅠ 어려운 것도 아닌데..)</p>
+<p>작은 디테일이 쌓이고 쌓여 멋진 결과물이 나오게 된다. 시간이 조금 더 걸리더라도 조금 더 귀찮아 지더라도 작은 디테일을 놓치지 않도록 노력하자!!</p>
+<p>P.S 그나저나 간단한 컨텐츠들을 대부분 <a href="https://tailwindcss.com/" target="_blank">tailwindcss</a>를 이용해 CSS 스타일을 적용하는데, 왜 tailwindcss에는 <code>word-break: keep-all</code> 을 적용시키는 속성값이 없는 것이냐!! 한글 무시하는건가~ ( tailwindcss 에서 비슷하게 사용할 수 있는 속성이 <code>break-words</code> → <code>overflow-wrap: break-word;</code> 인데 영어에는 적용되지만 한글에는 적용되지 않는다. )</p>
 
         </div>
       </div>
     </div>
   </div>
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Study on JJuice Blog</title>
-    <link>https://jjuicecode.github.io/study/</link>
-    <description>Recent content in Study on JJuice Blog</description>
+    <title>css속성 on JJuice Blog</title>
+    <link>https://jjuicecode.github.io/tags/css%EC%86%8D%EC%84%B1/</link>
+    <description>Recent content in css속성 on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 03 Feb 2022 14:55:22 +0900</lastBuildDate><atom:link href="https://jjuicecode.github.io/study/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 14:55:22 +0900</lastBuildDate><atom:link href="https://jjuicecode.github.io/tags/css%EC%86%8D%EC%84%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTML 텍스트 줄바꿈을 단어 기준으로 정하게 만들어 주는 CSS 속성 | break-word</title>
       <link>https://jjuicecode.github.io/study/css_property_breakword/</link>
