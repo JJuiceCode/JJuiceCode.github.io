@@ -2,19 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jjuicecode.github.io/tags/break-word/</loc>
+    <loc>https://jjuicecode.github.io/categories/</loc>
     <lastmod>2022-02-03T14:55:22+09:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/categories/</loc>
+    <loc>https://jjuicecode.github.io/tags/css/</loc>
     <lastmod>2022-02-03T14:55:22+09:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/categories/css/</loc>
     <lastmod>2022-02-03T14:55:22+09:00</lastmod>
   </url><url>
-    <loc>https://jjuicecode.github.io/tags/css%EC%86%8D%EC%84%B1/</loc>
-    <lastmod>2022-02-03T14:55:22+09:00</lastmod>
-  </url><url>
-    <loc>https://jjuicecode.github.io/study/css_property_breakword/</loc>
+    <loc>https://jjuicecode.github.io/study/css_property_wordbreak/</loc>
     <lastmod>2022-02-03T14:55:22+09:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/</loc>
@@ -24,6 +21,9 @@
     <lastmod>2022-02-03T14:55:22+09:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/tags/</loc>
+    <lastmod>2022-02-03T14:55:22+09:00</lastmod>
+  </url><url>
+    <loc>https://jjuicecode.github.io/tags/word-break/</loc>
     <lastmod>2022-02-03T14:55:22+09:00</lastmod>
   </url><url>
     <loc>https://jjuicecode.github.io/tags/phpstorm/</loc>
