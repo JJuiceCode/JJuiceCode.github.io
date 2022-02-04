@@ -8,7 +8,7 @@
     <language>ko-kr</language>
     <lastBuildDate>Thu, 03 Feb 2022 14:55:22 +0900</lastBuildDate><atom:link href="https://jjuicecode.github.io/tags/break-word/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HTML 텍스트 줄바꿈을 단어 기준으로 정하게 만들어 주는 CSS 속성 | break-word</title>
+      <title>HTML 텍스트 줄바꿈 CSS 속성 | word-break</title>
       <link>https://jjuicecode.github.io/study/css_property_breakword/</link>
       <pubDate>Thu, 03 Feb 2022 14:55:22 +0900</pubDate>
       
