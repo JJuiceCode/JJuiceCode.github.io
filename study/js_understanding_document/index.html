@@ -682,20 +682,13 @@ if (!doNotTrack) {
 <p>유튜브에 <a href="https://www.youtube.com/watch?v=EVNbGVMlANs&amp;t=428s" target="_blank">What is document interface?</a>는 아래와 같이 정의되어 있다. (내 맘대로 번역)</p>
 <div class="notices info" >
   <p>
-    <p>Document is object or interface that <em>represents</em> webpage loaded.</p>
-<p>-document 객체 or 인터페이스는 웹페이지가 로드되었을때 나타난다.</p>
-<p>If you want to access any element in an HTML page, you always start with accessing the document object.</p>
-<p>-만약 HTML 페이지의 엘리먼트(요소)에 접근하려면, 항상 document object에 접근하는걸로 시작한다.</p>
-<p>So, it is an interface.</p>
-<p>-그래서 인터페이스이다.</p>
-<p>and represents any web page loaded in the browser</p>
-<p>-브라우저안의 로드된 모든 웹페이지에 (document 인터페이스가)나타난다.</p>
-<p>and serves as an entry point into the web page&rsquo;s content. (which is the DOM tree)</p>
-<p>-그리고 웹페이지 컨텐츠 (정확히는 DOM 트리 위치에)의 진입점(진입할 수 있게 도와주는) 역할을 수행한다.</p>
-<p>Basically, it is the root of the document tree,</p>
-<p>-일반적으로 (DOM트리는) document 루트 경로를 말하며,</p>
-<p>and provides the primary access to the document&rsquo;s data</p>
-<p>-기본적인 document data에 접근할 수 있게 지원(제공)한다.</p>
+    <p>-document 객체 or 인터페이스는 웹페이지가 로드되었을때 나타난다.<br/></p>
+<p>-만약 HTML 페이지의 엘리먼트(요소)에 접근하려면, 항상 document object에 접근하는걸로 시작한다.<br/></p>
+<p>-그래서 인터페이스이다.<br/></p>
+<p>-브라우저안의 로드된 모든 웹페이지에 (document 인터페이스가)나타난다.<br/></p>
+<p>-그리고 웹페이지 컨텐츠 (정확히는 DOM 트리 위치에)의 진입점(진입할 수 있게 도와주는) 역할을 수행한다.<br/></p>
+<p>-일반적으로 (DOM트리는) document 루트 경로를 말하며,<br/></p>
+<p>-기본적인 document data에 접근할 수 있게 지원(제공)한다.<br/></p>
 
   </p>
 </div>
@@ -738,6 +731,39 @@ if (!doNotTrack) {
 <p>이번 포스트를 통해 어떻게 document가  HTML 요소에 접근하고 왜 접근할 수 있었는지에 대해 조금은 이해하고 넘어갈 수 있게 되었다.</p>
 <p>다음에는 document와 연관된 Object Model (객체화)에 대해 이해해 보려고 한다.</p>
 <h1 id="추가-내용">추가 내용</h1>
+<p>&lt;2022.2.15 추가&gt;</p>
+<p>※ 자료 출처 : <a href="https://opentutorials.org/course/1375/6622" target="_blank">생활코딩-Object Model</a></p>
+<h2 id="object-model이란">Object Model이란?</h2>
+<p>자바스크립트에서는 브라우저를 컨트롤 하기 위해 탄생되었다.</p>
+<p>자바스크립트에서 브라우저의 웹 컨텐츠 요소(HTML 태그)를 동적으로 제어하기 위해서는 반드시 필요한게 한 가지고 있다. 그건 바로 <strong>객체</strong>이다.</p>
+<p>자바스크립트는 객체만을  컨트롤 할 수 있다. 이 부분을 브라우저에서도 잘 알고 있다. 그래서 브라우저에서는 모든 HTML 문서를 읽는 동시에 태그 요소들을 <strong>객체로 만들어준다 → 객체화</strong> 시켜 놓는다.</p>
+<p>브라우저의 구성요소는 window객체(전역객체) → Dom, Bom (window객체의 프로퍼티)로 되어있다. <strong>Dom,Bom 요소들이 바로 자바스크립트에서 쉽게 접근해 제어하기 위해 객체화 시켜 놓은 대표적인 Object Model들이다.</strong></p>
+<p>DOM에는 전역객체인 window의 속성값 중 하나이다. window 다른 종류의 속성값들 <code>location</code> <code>frame</code> 등은 BOM에 속해져있다.</p>
+<p><img src="https://raw.githubusercontent.com/JJuiceCode/blog.image.server/main/2022/image-20220215132712152.png" alt="image-20220215132712152"></p>
+<blockquote>
+<p>하나 짚고 넘어가야 할 점은 브라우저 환경에서만 DOM, BOM 구조가 존재하는 것이지 다른 환경(ex:node.js)에서는 JS Core 부분을 제외하고는 존재하지 않는다.</p>
+</blockquote>
+<p><br/>a</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span>&lt;<span style="color:#ff79c6">body</span>&gt;
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2</span>    &lt;<span style="color:#ff79c6">img</span> <span style="color:#50fa7b">src</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">&#34;www.jjuice.com/jjuice.jpg&#34;</span> /&gt;
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3</span>&lt;/<span style="color:#ff79c6">body</span>&gt;
+</code></pre></div><p>위와 같은 HTML 문서가 있다.</p>
+<p>브라우저에서 해당 문서를 로드하면서 각 HTML요소들을 객체화(객체로 만들어 놓음)시킨다. 그러면 우리가 할 일은 자바스크립트 코드로 객체화 시켜놓은 해당 <code>&lt;img&gt;</code> 태그 요소를 찾아오기면 하는 것이다.</p>
+<p>그래서 우리는 웹페이지가 로드되면서 자동으로 세팅되어 있는 document 인터페이스에 접근해 (정확히는 DOM Tree 루트) document가 제공하는 메서드를 사용해 아래와 같은 코드로 <code>&lt;img&gt;</code> 태그 요소를 변수에 할당해 줄 수 있고 원한다면 자바스크립트 프로퍼티와 메서드를 사용해 동적으로 <code>&lt;img&gt;</code> 태그 요소를 변경해 줄 수 있다.</p>
+<blockquote>
+<p>이미 화면에 만들어진 (렌더링 된) HTML문서는 HTML 코드를 수정해서 변경할 수가 없다. 오직 자바스크립트만이 동적으로 변경이 가능하다.</p>
+</blockquote>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span style="color:#ff79c6">const</span> imgs <span style="color:#ff79c6">=</span> <span style="color:#8be9fd;font-style:italic">document</span>.getElementsByTagName(<span style="color:#f1fa8c">&#34;img&#34;</span>);
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2</span>imgs.style.width <span style="color:#ff79c6">=</span> <span style="color:#bd93f9">300</span>px;
+</code></pre></div><h3 id="object-model-핵심요약">Object Model 핵심요약</h3>
+<ul>
+<li>JS는 브라우저 요소들을 제어하기 위해 사용된다.</li>
+<li>JS는 오직 객체만을 컨트롤 할 수 있다.</li>
+<li>브라우저는 JS를 위해 미리 HTML요소들을 <strong>객체화</strong> 시켜 놓는다.</li>
+<li>브라우저에서 이런 객체화 세팅을 위한 DOM, BOM, JS Core 구조로 되어있다. (모두 window객체 프로퍼티)</li>
+<li>JS에서 할 일은 브라우저에서 준비해 놓은 객체들 중에 내가 필요한 객체를 찾는 것이다.</li>
+<li>Document인터페이스의  DOM Tree 진입점을 통해 루트 경로에 접근한 상태에서 <code>document</code>의 다양한 프로퍼티와 메서드를 통해 동적으로 요소를 제어할 수 있다.</li>
+</ul>
 
           </div>
 
@@ -902,15 +928,22 @@ if (!doNotTrack) {
       </ul>
     </li>
   </ul>
+
+  <ul>
+    <li><a href="#object-model이란">Object Model이란?</a>
+      <ul>
+        <li><a href="#object-model-핵심요약">Object Model 핵심요약</a></li>
+      </ul>
+    </li>
+  </ul>
 </nav>
 </div>
 <!-- categories -->
 <div class="widget widget-categories">
   <h5 class="widget-title"><span>카테고리</span></h5>
   <ul class="list-unstyled widget-list">
-    <li><a href="/categories/css" class="d-flex">Css <small class="ms-auto">(1)</small></a></li>
     <li><a href="/categories/study" class="d-flex">Study <small class="ms-auto">(1)</small></a></li>
-    <li><a href="/categories/tool" class="d-flex">Tool <small class="ms-auto">(2)</small></a></li>
+    <li><a href="/categories/tool" class="d-flex">Tool <small class="ms-auto">(3)</small></a></li>
   </ul>
 </div><!-- tags -->
 <div class="widget">
