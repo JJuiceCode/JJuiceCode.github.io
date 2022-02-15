@@ -6,7 +6,16 @@
     <description>Recent content in Categories on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 03 Feb 2022 14:55:22 +0900</lastBuildDate><atom:link href="https://jjuicecode.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Feb 2022 11:30:25 +0900</lastBuildDate><atom:link href="https://jjuicecode.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>study</title>
+      <link>https://jjuicecode.github.io/categories/study/</link>
+      <pubDate>Wed, 09 Feb 2022 11:30:25 +0900</pubDate>
+      
+      <guid>https://jjuicecode.github.io/categories/study/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>css</title>
       <link>https://jjuicecode.github.io/categories/css/</link>
