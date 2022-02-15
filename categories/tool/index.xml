@@ -6,7 +6,16 @@
     <description>Recent content in tool on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jjuicecode.github.io/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 14:55:22 +0900</lastBuildDate><atom:link href="https://jjuicecode.github.io/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML 텍스트 줄바꿈 CSS 속성 | word-break</title>
+      <link>https://jjuicecode.github.io/study/css_property_wordbreak/</link>
+      <pubDate>Thu, 03 Feb 2022 14:55:22 +0900</pubDate>
+      
+      <guid>https://jjuicecode.github.io/study/css_property_wordbreak/</guid>
+      <description>시작하기에 앞서 HTML 홈페</description>
+    </item>
+    
     <item>
       <title>PHPStorm &amp; Webstorm에서 특정 폴더 검색 제외하기</title>
       <link>https://jjuicecode.github.io/tool/phpstorm_exclusion_folder/</link>
