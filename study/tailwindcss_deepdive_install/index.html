@@ -681,15 +681,16 @@ if (!doNotTrack) {
 <p><img src="https://raw.githubusercontent.com/JJuiceCode/blog.image.server/main/2022/image-20220216104054544.png" alt="image-20220216104054544"></p>
 <p><code>content</code> 속성안에 아래의 코드를 추가하자.</p>
 <ul>
-<li>저는 <code>deepDive</code> 폴더 안 <code>src</code> 폴더를 생성한 후 <code>src</code> 폴더에 모든 HTML 문서를 생성해 줄 것입니다.</li>
+<li><code>content</code>란에 넣어주는 값은 내가 tailwindcss를 적용할 타켓(폴더or파일)이 누구인지 알려주는 겁니다.</li>
+<li>예를들어 아래 <code>&quot;./src/**/*.{html,js}&quot;</code> 같은 경우 <code>루트 프로젝트 폴더 &gt; src폴더</code>안에 있는 모든 html,js파일에 tailwindcss를 적용시켜주겠다 라고 설정해 주는 겁니다.</li>
 </ul>
 <p><img src="https://raw.githubusercontent.com/JJuiceCode/blog.image.server/main/2022/image-20220216104641262.png" alt="image-20220216104641262"></p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span>module.exports <span style="color:#ff79c6">=</span> {
-<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2</span>    content<span style="color:#ff79c6">:</span> [ <span style="color:#f1fa8c">&#34;./src/**/*.{html,js}&#34;</span> ],
-<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3</span>    theme<span style="color:#ff79c6">:</span> {
-<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4</span>        extend<span style="color:#ff79c6">:</span> { },
-<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5</span>    },
-<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6</span>    plugins<span style="color:#ff79c6">:</span> [],
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2</span>	content<span style="color:#ff79c6">:</span> [ <span style="color:#f1fa8c">&#34;./src/**/*.{html,js}&#34;</span> ],
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3</span>	theme<span style="color:#ff79c6">:</span> {
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4</span>		extend<span style="color:#ff79c6">:</span> { },
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5</span>	},
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6</span>	plugins<span style="color:#ff79c6">:</span> [],
 <span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7</span>}
 </code></pre></div><h3 id="-src-폴더-안-css파일-생성-후-tailwind-지시자-추가하기">④ src 폴더 안 css파일 생성 후 <code>@tailwind</code> 지시자 추가하기</h3>
 <p>-<code>src</code> 폴더에 <code>tailwind_input.css</code> 파일 생성</p>
@@ -723,9 +724,9 @@ if (!doNotTrack) {
 <span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2</span>	&lt;<span style="color:#ff79c6">link</span> <span style="color:#50fa7b">href</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">&#34;dist/tailwind_output.css&#34;</span> <span style="color:#50fa7b">rel</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">&#34;stylesheet&#34;</span>&gt;
 <span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3</span>&lt;/<span style="color:#ff79c6">head</span>&gt;
 <span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4</span>&lt;<span style="color:#ff79c6">body</span>&gt;
-<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5</span>	&lt;<span style="color:#ff79c6">h1</span> <span style="color:#50fa7b">class</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">&#34;text-5xl font-bold text-pink-600&#34;</span>&gt;
-<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6</span>		Tailwindcss Deep Dive!
-<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7</span>	&lt;/<span style="color:#ff79c6">h1</span>&gt;
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5</span>&lt;<span style="color:#ff79c6">h1</span> <span style="color:#50fa7b">class</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">&#34;text-5xl font-bold text-pink-600&#34;</span>&gt;
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6</span>	Tailwindcss Deep Dive!
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7</span>&lt;/<span style="color:#ff79c6">h1</span>&gt;
 <span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8</span>&lt;/<span style="color:#ff79c6">body</span>&gt;
 </code></pre></div><p>위와 같이 tailwindcss 값을 적어주면 <code>tailwind_output.css</code> 파일에 자동으로 Just-in-time형식으로 해당 css코드만 추가된다.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1</span>.<span style="color:#50fa7b">text-5xl</span> {
@@ -759,7 +760,11 @@ if (!doNotTrack) {
 </ul>
 <p><img src="https://raw.githubusercontent.com/JJuiceCode/blog.image.server/main/2022/image-20220216131211117.png" alt="image-20220216131211117"></p>
 <ul>
-<li>분명 <code>tailwind.config.js &gt; content</code> 값에는 <code>./src/**/*.{html,js}</code>, 즉 src폴더 안에 있는 모든 html,js파일들로만 설정을 해주었었다. 설정값에는 <code>src</code> 폴더 내부 파일에만 tailwindcss가 적용되게 설정되어 있는데, 루트경로에 tailwindcss를 사용하려고 하니 경고 메세지가 뜬 것이였다.</li>
+<li>분명 <code>tailwind.config.js &gt; content</code> 값에는 <code>./src/**/*.{html,js}</code>, 즉 src폴더 안에 있는 모든 html,js파일들로만 설정을 해주었었다. 설정값에는 <code>src</code> 폴더 내부 파일에만 tailwindcss가 적용되게 설정되어 있는데, 루트경로에 tailwindcss를 사용하려고 하니 경고 메세지가 뜬 것이였다.
+<ul>
+<li>만약 루트 경로 가 아닌 <code>deepDive &gt; src</code> 폴더에 <code>index.html</code>을 생성한 상황이라면 관련 경고 메세지가 뜨지 않는다.</li>
+</ul>
+</li>
 </ul>
 <h3 id="solution">😃Solution</h3>
 <div class="notices solution" >
@@ -771,11 +776,11 @@ if (!doNotTrack) {
 
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span style="color:#6272a4">//Erro.1 → Solution Code
 </span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2</span><span style="color:#6272a4"></span>module.exports <span style="color:#ff79c6">=</span> {
-<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3</span>  content<span style="color:#ff79c6">:</span> [
-<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4</span>      <span style="color:#f1fa8c">&#39;index.html&#39;</span>, <span style="color:#6272a4">//루트 경로의 index.html 단일 파일에만 적용
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5</span><span style="color:#6272a4"></span>      <span style="color:#f1fa8c">&#39;*.{html,js}&#39;</span>, <span style="color:#6272a4">//루트 경로의 모든 html,js파일
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6</span><span style="color:#6272a4"></span>      <span style="color:#f1fa8c">&#39;./src/**/*.{html,js}&#39;</span>, <span style="color:#6272a4">//src 경로의 모든 html,js파일
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7</span><span style="color:#6272a4"></span>  ],
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3</span>	content<span style="color:#ff79c6">:</span> [
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4</span>		<span style="color:#f1fa8c">&#39;index.html&#39;</span>, <span style="color:#6272a4">//루트 경로의 index.html 단일 파일에만 적용
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5</span><span style="color:#6272a4"></span>		<span style="color:#f1fa8c">&#39;*.{html,js}&#39;</span>, <span style="color:#6272a4">//루트 경로의 모든 html,js파일
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6</span><span style="color:#6272a4"></span>		<span style="color:#f1fa8c">&#39;./src/**/*.{html,js}&#39;</span>, <span style="color:#6272a4">//src 경로의 모든 html,js파일
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7</span><span style="color:#6272a4"></span>	],
 </code></pre></div><h1 id="마무리하며">마무리하며..</h1>
 <p>이왕 이렇게 시작한거 앞으로 tailwindcss와 관련된 다양한 포스트를 만들어봐야겠다.
 [포스트 예정]</p>
