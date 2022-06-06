@@ -6,7 +6,16 @@
     <description>Recent content in study on JJuice Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 16 Feb 2022 13:27:15 +0900</lastBuildDate><atom:link href="https://jjuicecode.github.io/categories/study/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jjuicecode.github.io/categories/study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HackerNews_web_app</title>
+      <link>https://jjuicecode.github.io/study/hackernews_app/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjuicecode.github.io/study/hackernews_app/</guid>
+      <description>시작하기에 앞서 지금부</description>
+    </item>
+    
     <item>
       <title>Tailwindcss Deep Dive.1 | 기본세팅</title>
       <link>https://jjuicecode.github.io/study/tailwindcss_deepdive_install/</link>
